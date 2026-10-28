@@ -471,7 +471,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "dreamV1_0.kicad_pro",
+    "filename": "dreamV2.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -528,7 +528,7 @@
       "plot": "exports/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "dreamV1_0.step",
+      "step": "dreamV2.step",
       "svg": "",
       "vrml": ""
     },

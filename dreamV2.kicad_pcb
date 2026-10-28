@@ -12,7 +12,7 @@
 		(date "2026-03-06")
 		(rev "1")
 		(company "Mints-AI, University of Texas at Dallas")
-		(comment 1 "Dheeraj Somashekar & Leonardo Murillo")
+		(comment 1 "Dheeraj Somashekar, John Phelan, and Leonardo Murillo")
 	)
 	(layers
 		(0 "F.Cu" signal)
